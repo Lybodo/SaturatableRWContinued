@@ -1,0 +1,5 @@
+E:\Files\Code\SaturatableRWContinued\GameData\SaturatableRWContinued\SaturatableRWContinued.dll
+E:\Files\Code\SaturatableRWContinued\SaturatableRW\obj\Debug\SaturatableRWContinued.csprojResolveAssemblyReference.cache
+E:\Files\Code\SaturatableRWContinued\SaturatableRW\obj\Debug\SaturatableRWContinued.dll
+E:\Files\Code\SaturatableRWContinued\SaturatableRWContinued\obj\Debug\SaturatableRWContinued.csprojResolveAssemblyReference.cache
+E:\Files\Code\SaturatableRWContinued\SaturatableRWContinued\obj\Debug\SaturatableRWContinued.dll
